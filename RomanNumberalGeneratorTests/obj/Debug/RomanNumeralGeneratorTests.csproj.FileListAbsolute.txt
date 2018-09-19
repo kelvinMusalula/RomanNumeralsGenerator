@@ -1,0 +1,17 @@
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\RomanNumberalGeneratorTests.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\RomanNumberalGeneratorTests.pdb
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\ConsoleApp1.exe
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\ConsoleApp1.pdb
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\ConsoleApp1.exe.config
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\obj\Debug\RomanNumeralGeneratorTests.csprojAssemblyReference.cache
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\obj\Debug\RomanNumeralGeneratorTests.csproj.CoreCompileInputs.cache
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\obj\Debug\RomanNumeralGeneratorTests.csproj.CopyComplete
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\obj\Debug\RomanNumberalGeneratorTests.dll
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\RomanNumberalGeneratorTests\obj\Debug\RomanNumberalGeneratorTests.pdb

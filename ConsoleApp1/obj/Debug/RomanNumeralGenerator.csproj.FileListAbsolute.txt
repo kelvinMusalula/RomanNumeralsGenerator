@@ -1,0 +1,6 @@
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\RomanNumeralGenerator.csproj.CoreCompileInputs.cache
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\kelvin.musalula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
